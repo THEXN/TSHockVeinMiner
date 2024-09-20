@@ -1,3 +1,5 @@
+# 本仓库已不再更新，已经整合到：https://github.com/UnrealMultiple/TShockPlugin，后续更新均会发布至此仓库
+# This repository is no longer updated and has been integrated into: https://github.com/UnrealMultiple/TShockPlugin. All future updates will be published there.
 # TSHockVeinMiner
 VeinMiner Plugin for TShock, allows you to edit blocks that you want to be veinmined as well allows you to give your players certain rewards for veinmining big veins!
 
